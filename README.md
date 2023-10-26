@@ -12,7 +12,7 @@
 <br><br>
 <a href="https://github.com/mmdcoder1/digital-agency">🚖 digital agency website</a>
 <br><br>
-<a href=" https://github.com/mmdcoder1/persian-crypto-website">🪙 crypto currency website</a>
+<a href="https://github.com/mmdcoder1/persian-crypto-website">🪙 crypto currency website</a>
 <br><br>
 <a href="https://github.com/mmdcoder1/musical-website">🎵 music shop website</a>
  
