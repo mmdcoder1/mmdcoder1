@@ -8,7 +8,7 @@
 
 
 # 📃 Projects
-🛒 shopping cart website: https://github.com/mmdcoder1/e-commerce-website
+🛒 <a href="https://github.com/mmdcoder1/e-commerce-website">shopping cart website</a>
 <br><br>
 🚖 digital agency website: https://github.com/mmdcoder1/digital-agency
 <br><br>
