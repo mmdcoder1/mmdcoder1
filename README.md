@@ -8,12 +8,13 @@
 
 
 # 📃 Projects
-🛒 <a href="https://github.com/mmdcoder1/e-commerce-website">shopping cart website</a>
+<a href="https://github.com/mmdcoder1/e-commerce-website">🛒 shopping cart website</a>
 <br><br>
-🚖 digital agency website: https://github.com/mmdcoder1/digital-agency
+<a href="https://github.com/mmdcoder1/digital-agency">🚖 digital agency website</a>
 <br><br>
-🪙 crypto currency website: https://github.com/mmdcoder1/persian-crypto-website
+<a href=" https://github.com/mmdcoder1/persian-crypto-website">🪙 crypto currency website</a>
 <br><br>
-🎵 music shop website: https://github.com/mmdcoder1/musical-website
+<a href="https://github.com/mmdcoder1/musical-website">🎵 music shop website</a>
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
