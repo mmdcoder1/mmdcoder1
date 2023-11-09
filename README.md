@@ -19,9 +19,22 @@
 
 # 📃 Contact me
 
-<a href="https://digital-agency-mu-rose.vercel.app/">
+<a href="https://t.me/mmdcoder">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" />
 </a>
+
+|
+
+<a href="https://www.instagram.com/mohadev.ir">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20" height="20" />
+</a>
+
+|
+
+<a href="https://www.linkedin.com/in/mohammad-tamaddon-12160a224/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" height="20" />
+</a>
+
 
 
  
