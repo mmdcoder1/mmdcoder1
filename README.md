@@ -19,7 +19,7 @@
 
 # 📬 Contact me
 
-<a href="https://t.me/mmdcoder" style="margin-right: 20px;">
+<a href="https://t.me/mmdcoder">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" />
 </a>
 
