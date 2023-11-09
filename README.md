@@ -1,6 +1,6 @@
 # 🙋‍♂️ About Me
 🧑‍💼 I’m Mohammad Tamaddon a ReactJS Developer from Iran <br><br> 💡 I’m currently upgrading myself to a professional ReactJS Developer<br><br>👨‍💻 I listed all my completed react projects below!
-<br><br>💬 Ask me about ReactJS<br>
+<br><br>💬 Ask me about ReactJS<br><br>📨 How to me reach devmmdcoder@gmail.com<br>
 
 
 # 📌 Skills
@@ -16,7 +16,14 @@
 <a href="https://persian-crypto-website.vercel.app/">🪙 crypto currency website</a>
 <br><br>
 <a href="https://musical-website-psi.vercel.app/">🎵 music shop website</a>
-...
+
+# 📃 Contact me
+
+<a href="https://digital-agency-mu-rose.vercel.app/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" />
+</a>
+
+
  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
