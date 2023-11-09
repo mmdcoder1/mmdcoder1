@@ -8,6 +8,7 @@
 
 
 # 📃 Projects
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20">
 <a href="https://github.com/mmdcoder1/e-commerce-website">🛒 shopping cart website</a>
 <br><br>
 <a href="https://github.com/mmdcoder1/digital-agency">🚖 digital agency website</a>
