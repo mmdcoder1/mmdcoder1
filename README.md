@@ -19,8 +19,7 @@
 
 # 📬 Contact me
 
-<div style="display: flex;justify-content: space-between;">
-<a href="https://t.me/mmdcoder">
+<a href="https://t.me/mmdcoder" style="margin-right: '20px';">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" />
 </a>
 
@@ -35,7 +34,6 @@
 <a href="mailto:devmmdcoder@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" />
 </a>
-</div>
 
 
 
