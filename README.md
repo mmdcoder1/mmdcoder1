@@ -31,6 +31,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" height="30" />
 </a>
 
+<a href="mailto:devmmdcoder@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" />
+</a>
+
 
 
  
