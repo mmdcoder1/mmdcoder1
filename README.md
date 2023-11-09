@@ -17,8 +17,9 @@
 <br><br>
 <a href="https://musical-website-psi.vercel.app/">🎵 music shop website</a>
 
-# 📃 Contact me
+# 📬 Contact me
 
+<div style="display: flex;gap: 20px;">
 <a href="https://t.me/mmdcoder">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" />
 </a>
@@ -34,6 +35,7 @@
 <a href="mailto:devmmdcoder@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" />
 </a>
+</div>
 
 
 
