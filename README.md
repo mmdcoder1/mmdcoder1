@@ -9,7 +9,7 @@
 
 # 📃 Projects
 
-🗯️ These are some overview of my projects to see all my projects check my portfolio website <a href="https://portfolio-mmdcoder1.vercel.app/">🌐 My Website</a>
+🗯️ These are some overview of my projects to see more of my projects check <a href="https://portfolio-mmdcoder1.vercel.app/">My Website</a>
 
 <a href="https://digital-agency-mu-rose.vercel.app/">🚖 digital agency website</a>
 <br><br>
