@@ -9,45 +9,45 @@
 
 # 📃 Projects
 
-🗯️ These are some overview of my projects to see more of my projects check <a href="https://portfolio-mmdcoder1.vercel.app/">My Website</a>
+🗯️ These are some overview of my projects to see more of my projects check <a href="https://portfolio-mmdcoder1.vercel.app/" target="_blank">My Website</a>
 
-<a href="https://digital-agency-mu-rose.vercel.app/">🚖 digital agency website</a>
+<a href="https://digital-agency-mu-rose.vercel.app/" target="_blank">🚖 digital agency website</a>
 <br><br>
-<a href="https://persian-crypto-website.vercel.app/">🪙 crypto currency website</a>
+<a href="https://persian-crypto-website.vercel.app/" target="_blank">🪙 crypto currency website</a>
 <br><br>
-<a href="https://musical-website-psi.vercel.app/">🎵 music shop website</a>
+<a href="https://musical-website-psi.vercel.app/" target="_blank">🎵 music shop website</a>
 
 # 📬 Contact me
 
-<a href="https://portfolio-mmdcoder1.vercel.app/">
+<a href="https://portfolio-mmdcoder1.vercel.app/" target="_blank">
       <span>🌐</span>
       <span>My Website</span>
 </a>
 
 <br>
 
-<a href="https://t.me/mmdcoder">
+<a href="https://t.me/mmdcoder" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" />
       <span>Telegram</span>
 </a>
 
 <br>
 
-<a href="https://www.instagram.com/mohadev.ir">
+<a href="https://www.instagram.com/mohadev.ir" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="30" height="30" />
       <span>Instagram</span>
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/mohammad-tamaddon-12160a224/">
+<a href="https://www.linkedin.com/in/mohammad-tamaddon-12160a224/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" height="30" />
       <span>LinkedIn</span>
 </a>
 
 <br>
 
-<a href="mailto:devmmdcoder@gmail.com">
+<a href="mailto:devmmdcoder@gmail.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30" />
       <span>Gmail</span>
 </a>
